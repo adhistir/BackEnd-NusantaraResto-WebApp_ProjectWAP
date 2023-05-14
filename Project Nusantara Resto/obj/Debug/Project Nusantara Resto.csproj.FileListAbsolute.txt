@@ -1,0 +1,132 @@
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Project Nusantara Resto.dll.config
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Project Nusantara Resto.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Project Nusantara Resto.pdb
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csc.exe
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csc.exe.config
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csc.rsp
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csi.exe
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csi.exe.config
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csi.rsp
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\vbc.exe
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\vbc.exe.config
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\vbc.rsp
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\VBCSCompiler.exe
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.csproj.AssemblyReference.cache
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.csproj.CoreCompileInputs.cache
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.csproj.CopyComplete
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.pdb
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\BouncyCastle.Crypto.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Google.Protobuf.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Hash.xxHash.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\MySql.Data.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Buffers.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.IO.Pipelines.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Memory.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Numerics.Vectors.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\BouncyCastle.Crypto.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Google.Protobuf.pdb
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\Google.Protobuf.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Hash.xxHash.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\MySql.Data.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Buffers.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.IO.Pipelines.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Memory.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Numerics.Vectors.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Buffers.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Memory.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\yuman\OneDrive\Documents\VISUAL 2022\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Project Nusantara Resto.dll.config
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Project Nusantara Resto.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Project Nusantara Resto.pdb
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Buffers.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Memory.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Google.Protobuf.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\MySql.Data.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Buffers.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.IO.Pipelines.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Memory.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\BouncyCastle.Crypto.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Google.Protobuf.pdb
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Google.Protobuf.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\K4os.Hash.xxHash.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\MySql.Data.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Buffers.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.IO.Pipelines.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Memory.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.dll
+C:\Users\LENOVO\Downloads\Project Nusantara Resto\Project Nusantara Resto\obj\Debug\Project Nusantara Resto.pdb

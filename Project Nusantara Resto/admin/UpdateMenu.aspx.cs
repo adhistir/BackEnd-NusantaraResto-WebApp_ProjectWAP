@@ -1,0 +1,115 @@
+﻿using MySql.Data.MySqlClient;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace Project_Nusantara_Resto
+{
+    public partial class UpdateMenu2aspx : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                // Get the menucode from query string
+                string menuCode = Request.QueryString["id"];
+
+                // Retrieve the menu data from database
+                string connString = "Server=localhost;Database=nusantara_resto;Uid=root;Pwd=;";
+                using (MySqlConnection connection = new MySqlConnection(connString))
+                {
+                    connection.Open();
+                    string query = "SELECT * FROM menu WHERE menuCode = @menucode";
+                    using (MySqlCommand command = new MySqlCommand(query, connection))
+                    {
+                        command.Parameters.AddWithValue("@menucode", menuCode);
+                        using (MySqlDataReader reader = command.ExecuteReader())
+                        {
+                            if (reader.Read())
+                            {
+                                txtMenuCode.Text = reader["menuCode"].ToString();
+                                txtCategoryCode.Text = reader["categoryCode"].ToString();
+                                txtMenuName.Text = reader["menuName"].ToString();
+                                txtMenuDesc.Text = reader["menuDesc"].ToString();
+                                txtMenuStock.Text = reader["menuStock"].ToString();
+                                //txtMenuImage.Text = reader["menuImage"].ToString();
+                                txtMenuPrice.Text = reader["menuPrice"].ToString();
+                                txtAdminCode.Text = reader["adminCode"].ToString();
+                            }
+                            else
+                            {
+                                Response.Redirect("menu.aspx");
+                            }
+                        }
+                    }
+                }
+
+                // Get admin code from session
+                string adminCode = (string)Session["adminCode"];
+                if (adminCode == null)
+                {
+                    Response.Redirect("~/LoginAdmin.aspx");
+                }
+                else
+                {
+                    // Retrieve admin name from database
+                    string connString2 = "Server=localhost;Database=nusantara_resto;Uid=root;Pwd=;";
+                    using (MySqlConnection connection2 = new MySqlConnection(connString2))
+                    {
+                        connection2.Open();
+                        string query2 = "SELECT adminName FROM admin WHERE adminCode = @adminCode";
+                        using (MySqlCommand command2 = new MySqlCommand(query2, connection2))
+                        {
+                            command2.Parameters.AddWithValue("@adminCode", adminCode);
+                            string AdminName = (string)command2.ExecuteScalar();
+                            adminName.Text = AdminName;
+                        }
+                    }
+                }
+            }
+        }
+
+        protected void btnUpdate_Click(object sender, EventArgs e)
+        {
+
+            // Get the menucode from query string
+            string menuCode = Request.QueryString["id"];
+
+            // Update the menu data in database
+            string connString = "Server=localhost;Database=nusantara_resto;Uid=root;Pwd=;";
+            using (MySqlConnection connection = new MySqlConnection(connString))
+            {
+                connection.Open();
+                string query = "UPDATE menu SET menuCode = @menuCode, categoryCode = @categoryCode, menuName = @menuName, menuDesc = @menuDesc, menuStock = @menuStock, menuPrice = @menuPrice, adminCode = @adminCode WHERE menuCode = @menuCode";
+                using (MySqlCommand command = new MySqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@categoryCode", txtCategoryCode.Text);
+                    command.Parameters.AddWithValue("@menuName", txtMenuName.Text);
+                    command.Parameters.AddWithValue("@menuDesc", txtMenuDesc.Text);
+                    command.Parameters.AddWithValue("@menuStock", txtMenuStock.Text);
+                    //command.Parameters.AddWithValue("@menuImage", txtMenuImage.Text);
+                    command.Parameters.AddWithValue("@menuPrice", txtMenuPrice.Text);
+                    command.Parameters.AddWithValue("@adminCode", txtAdminCode.Text);
+                    command.Parameters.AddWithValue("@menuCode", menuCode);
+                    int rowsAffected = command.ExecuteNonQuery();
+                    if (rowsAffected > 0)
+                    {
+                        // Redirect to the menu.aspx page with a success message
+                        Response.Redirect("menu.aspx?update=success!");
+                    }
+                    else
+                    {
+                        // Redirect to the menu.aspx page with an error message
+                        Response.Redirect("menu.aspx?update=error");
+                    }
+                
+                }
+            }
+        }
+    }
+}
+        
+    
