@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 
     <!--custom css-->
-    <link rel="stylesheet" href="css/loginAdmin.css">
+    <link rel="stylesheet" href="css/LoginAdmin.css">
 
     <!--link animate css-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
@@ -36,9 +36,8 @@
     <section>
         <div class="container-fluid p-3 mt-5">
             <div class="row">
-                <div class="bg-image" style="background-image: url('assets/output-onlinepngtools.png');">
                     <div class="col-sm-9 col-md-7 col-lg-4 mx-auto">
-                        <div class="card bg-dark border-0 shadow rounded-3 my-5">
+                        <div class="cardLogin card border-0 shadow rounded-3 my-5">
                             <div class="card-body p-4 p-sm-5">
                                 <h2 class="card-title text-center mb-5 fw-bold text-white" style="font-family: cursive;">Login for Admin
                                 </h2>
@@ -56,7 +55,7 @@
                                         </span>
                                     </div>
                                     <div class="d-grid">
-                                        <asp:Button class="mt-3 btn btn-primary btn-login text-uppercase fw-bold" ID="btnLoginAdmin" runat="server" Text="Login" OnClick="BtnLogin_Click" />
+                                        <asp:Button class="mt-3 btn btn-login text-uppercase fw-bold" ID="btnLoginAdmin" runat="server" Text="Login" OnClick="BtnLogin_Click" />
                                     </div>
                                 </form>
                             </div>

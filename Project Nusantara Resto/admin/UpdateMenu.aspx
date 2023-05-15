@@ -119,7 +119,7 @@
     </div>
     <div class="mb-3">
         <label for="txtMenuDesc" class="form-label">menuDesc</label>
-        <asp:TextArea runat="server" ID="txtMenuDesc" CssClass="form-control" required="required"></asp:TextArea>
+        <asp:TextBox runat="server" ID="txtMenuDesc" CssClass="form-control" required="required"></asp:TextBox>
         <textarea id="TextArea1" cols="20" rows="2"></textarea>
     </div>
     <div class="mb-3">

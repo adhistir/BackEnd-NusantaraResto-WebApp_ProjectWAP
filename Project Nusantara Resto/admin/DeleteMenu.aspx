@@ -126,7 +126,7 @@
     </div>
     <div class="mb-3">
         <label for="txtMenuDesc" class="form-label">menuDesc</label>
-        <asp:TextArea runat="server" ID="txtMenuDesc" CssClass="form-control" required="required" ReadOnly="true"></asp:TextArea>
+        <asp:TextBox runat="server" ID="txtMenuDesc" CssClass="form-control" required="required" ReadOnly="true"></asp:TextBox>
     </div>
     <div class="mb-3">
         <label for="txtMenuStock" class="form-label">menuStock</label>
